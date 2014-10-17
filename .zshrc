@@ -80,4 +80,3 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-source ~/.profile
