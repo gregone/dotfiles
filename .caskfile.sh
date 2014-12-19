@@ -4,6 +4,8 @@ apps=(
   dash
   caffeine
   evernote
+  firefox
+  google-chrome
   imageoptim
   licecap
   qlmarkdown
@@ -12,6 +14,7 @@ apps=(
   quicklook-json
   spotify
   skitch
+  trailer
   transmission
   vagrant
   virtualbox
