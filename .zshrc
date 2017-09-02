@@ -45,7 +45,7 @@ ZSH_THEME="lambda"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(bower brew brew-cask bundler capistrano gem git gitignore github hub heroku osx npm node jira jsontools meteor node osx pip pow powder rails rake ruby rvm scala sbt vagrant)
+plugins=(bower brew brew-cask bundler capistrano ember-cli gem git gitignore github hub heroku osx npm node jira jsontools meteor node osx pip pow powder rails rake ruby rvm scala sbt vagrant)
 
 source $ZSH/oh-my-zsh.sh
 
