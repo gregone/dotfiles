@@ -13,6 +13,11 @@ binaries=(
   ack
   hub
   git
+  node
+  terraform
+  vault
+  packer
+  consul
 )
 
 # Install binaries with Homebrew defaults
